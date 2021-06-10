@@ -27,7 +27,14 @@ write post at text editor
 
 ### Make html & serve local
 
+```bash
+make html
+make serve
 ```
+
+access `http://localhost:8000` and check pages
+
+`BUT I CAN'T ACCESS LOCAL SERVER IN MY DOCKER CONTAINER! WHY~~~~~~`
 
 ## Thanks
 
